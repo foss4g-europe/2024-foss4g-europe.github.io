@@ -22,6 +22,10 @@ layout: "single"
     title="Recordings on YouTube"       
     class="btn btn-primary btn-lg"
     rel="noopener noreferrer" >}}
+</center>
+<hr>
+
+<center>
 {{< extlink
     href="https://isprs-archives.copernicus.org/articles/XLVIII-4-W12-2024/"
     title="Academic track proceedings"       
