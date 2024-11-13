@@ -38,9 +38,9 @@ layout: "single"
 Please note that the conference merch can be received only at the conference venue in Tartu. The items will not be shipped!
 The last day for purchasing merch is 2 June! After that, the orders will be closed!
 
-<center>
-    <a href="https://pretix.eu/foss4ge2024/tartu/#category-144729"
+<!--center>
+    <a href=""
         class="btn btn-primary btn-lg"
         style="padding:15px;margin-top:30px;margin-bottom:30px;margin-right:5px;margin-left:5px">
     <span>Buy our merchandise</span></a>
-</center>
+</center-->
