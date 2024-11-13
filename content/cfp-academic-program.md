@@ -22,6 +22,11 @@ layout: "single"
 
 <center>
 {{< extlink
+    href="https://av.tib.eu/series/1825"
+    title="Recordings on TIB-AV"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer" >}}
+{{< extlink
     href="https://www.youtube.com/watch?v=NT7BifRbPqQ&list=PLqa06jy1NEM0QkCSb94zkEFvzRAMgaFY5"
     title="Recordings on YouTube"       
     class="btn btn-primary btn-lg"
