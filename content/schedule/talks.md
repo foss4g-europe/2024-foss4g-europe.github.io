@@ -13,8 +13,13 @@ layout: "single"
 
 <center>
 {{< extlink
-    href="https://foss4ge.television.ee/"
-    title="recorded streams"       
+    href="https://www.youtube.com/watch?v=NT7BifRbPqQ&list=PLqa06jy1NEM0QkCSb94zkEFvzRAMgaFY5"
+    title="Recordings on YouTube"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer" >}}
+{{< extlink
+    href="https://isprs-archives.copernicus.org/articles/XLVIII-4-W12-2024/"
+    title="Academic track proceedings"       
     class="btn btn-primary btn-lg"
     rel="noopener noreferrer" >}}
 </center>
