@@ -17,13 +17,13 @@ We invite contributions to the FOSS4GE 2024 Tartu Map Gallery to showcase the im
 
 We are expecting maps of the city of Tartu where the conference is going to be held. It is your opportunity to challenge yourself with a new experience. 
 
-Please use the following form to submit your proposal. The deadline for submissions is 30 June 2024.  
+Please use the following form to submit your proposal. The deadline for submissions is 30 June 2024. 
 
 Please share the maps in a static format (e.g. PDF, PNG). All the relevant submissions will be displayed on our website.  
 
 <center>
     <a href="https://forms.gle/JHGtBYVmidKh1uNdA"
-        class="btn btn-primary btn-lg"
+        class="btn btn-primary btn-lg disabled"
         target="blank" rel="noopener noreferrer"
         style="padding:32px;margin-top:30px;margin-bottom:30px">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">
@@ -34,20 +34,20 @@ Criteria for participation:
 
 - Map has to be created using FOSS
 - Submission must contain/be based on only Open Data with appropriate attribution
-- The map has to be about Tartu.  
-    * Some possible data sources:  
+- The map has to be about Tartu. 
+    * Some possible data sources: 
         * OSM
         * [Spatial Data | Geoportal | Estonian Land Board (maaamet.ee)](https://geoportaal.maaamet.ee/eng/Spatial-Data-p58.html)
         * [Open data portal (eesti.ee)](https://avaandmed.eesti.ee/)
         * [Statistical database (Statistics Estonia)](https://andmed.stat.ee/en/stat)
-- Submission has to be licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
+- Submission has to be licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-In case of questions, please reach out via contact email info-europe@foss4g.org and add the keyword “Map Gallery” in the title. 
+In case of questions, please reach out via contact email info-europe@foss4g.org and add the keyword “Map Gallery” in the title.
 
 
 <center>
     <a href="./../map-gallery"
-        class="btn btn-transparent-md btn-lg"
+        class="btn btn-transparent-md btn-lg disabled"
         target="blank" rel="noopener noreferrer"
         style="padding:12px;margin-top:10px;margin-bottom:10px; border-style:none; font-size:16px; background-color: #f06a36">
         <img src="https://2024.europe.foss4g.org/images/icon/form-icon.png" alt="CFP">

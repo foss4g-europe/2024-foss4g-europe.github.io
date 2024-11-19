@@ -34,6 +34,11 @@ layout: "single"
     title="Recordings on YouTube"       
     class="btn btn-primary btn-lg"
     rel="noopener noreferrer" >}}
+{{< extlink
+    href="https://photoprism.osgeo.org/s/fe2024/photoprism-sync-foss4g-europe-2024"
+    title="Photos"       
+    class="btn btn-primary btn-lg"
+    rel="noopener noreferrer" >}}
 </center>
 <hr>
 

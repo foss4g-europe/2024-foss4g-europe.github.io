@@ -44,7 +44,7 @@ On-site attendance is highly recommended for full engagement, but online observa
 {{< extlink
     href="https://meet.goto.com/766923845"
     title="online participation"
-    class="btn btn-primary btn-lg"
+    class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer" >}}
 </center>
 <hr>
@@ -135,7 +135,7 @@ Cluster**.
 {{< extlink
     href="https://meet.goto.com/766923845"
     title="online participation"
-    class="btn btn-primary btn-lg"
+    class="btn btn-primary btn-lg disabled"
     rel="noopener noreferrer" >}}
 </center>
 <hr>
